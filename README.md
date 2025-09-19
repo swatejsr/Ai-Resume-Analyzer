@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <img src="public/hero.webp" alt="Project Banner">
+    <img src="public/hero.png" alt="Project Banner">
   <br />
 
   <div>
